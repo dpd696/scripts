@@ -1,0 +1,60 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "ShellGPT",
+			"path": "../ShellGPT"
+		},
+		{
+			"name": "dpd696",
+			"path": "../dpd696"
+		},
+		{
+			"name": "codex",
+			"path": "../codex"
+		},
+		{
+			"name": "cheat-sheets",
+			"path": "../cheat-sheets"
+		},
+		{
+			"name": "vscode-thedigitallife",
+			"path": "../vscode-thedigitallife"
+		},
+		{
+			"name": "dotfiles-win",
+			"path": "../dotfiles-win"
+		},
+		{
+			"name": "boilerplates",
+			"path": "../boilerplates"
+		},
+		{
+			"name": "disrapid",
+			"path": "../disrapid"
+		},
+		{
+			"name": "hackbox",
+			"path": "../hackbox"
+		},
+		{
+			"name": "sidecar-ipsec",
+			"path": "../sidecar-ipsec"
+		},
+		{
+			"name": "dotfiles",
+			"path": "../dotfiles"
+		},
+		{
+			"name": "selfhosting",
+			"path": "../selfhosting"
+		},
+		{
+			"name": "videos",
+			"path": "../videos"
+		}
+	],
+	"settings": {}
+}
